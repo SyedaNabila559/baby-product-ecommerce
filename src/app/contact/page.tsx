@@ -18,9 +18,9 @@ const ContactSection: React.FC = () => {
   };
 
   return (
-    <section className="bg-gradient-to-br from-pink-100 to-white py-12">
+    <section className="bg-gradient-to-br from-blue-100 to-white py-12">
       <div className="container mx-auto p-6 max-w-md">
-        <div className="bg-white p-6 rounded-lg shadow-lg border-2 border-pink-200">
+        <div className="bg-white p-6 rounded-lg shadow-lg border-2 border-blue-200">
           <h2 className="text-2xl font-semibold mb-4 text-blue-500 text-center">Contact Us</h2>
           <input
             type="text"
